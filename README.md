@@ -4,7 +4,7 @@
 
 This phase is a continuation of the previous one and adds new functionality for ticket management (`Ticket`).
 
-## New functionality:
+## New functionality
 
 ### Ticket entity:
 - Ticket contains information about the customer, start and end planet.
